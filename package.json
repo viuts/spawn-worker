@@ -1,0 +1,8 @@
+{
+  "name": "spawn-worker",
+  "version": "1.0.0",
+  "description": "Spawn a web worker with a function",
+  "main": "src/index.js",
+  "author": "Roman Liutikov <roman01la@romanliutikov.com>",
+  "license": "MIT"
+}
