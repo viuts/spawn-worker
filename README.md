@@ -36,6 +36,10 @@ workers.forEach(function(worker) {
 });
 ```
 
+## How it works
+
+A worker is created using url generated from a blob which is created from a stringified function wrapped as a self invoking function.
+
 ## API
 
 **spawn(function[, count])**
