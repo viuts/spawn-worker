@@ -1,4 +1,5 @@
 # spawn-worker
+<img src="logo.png" width="150" />
 Spawn a web worker with a function
 
 ## Install
